@@ -4,7 +4,7 @@ title:  "Lean Vs Agile"
 date:   2015-11-26 12:09:44 +0000
 categories: agile 
 ---
-#What is Lean, what is Agile are they different?
+#What is Lean, what is Agile, are they different?
 
 This question came up on a Lean Coffee meetup that I attended this morning.
 
