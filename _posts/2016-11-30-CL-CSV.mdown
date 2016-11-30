@@ -1,7 +1,0 @@
----
-layout: post
-title:  "Command Line CSV manipulation"
-date:   2015-11-27 11:39:54 +0000
-categories: awk
----
-# Summary
